@@ -19,7 +19,6 @@ Below are some notable changes:</br>
 - Remove duplicates in Geography Table, leaving only one latitude and longtitude for each State. Also create a new State_ID column to merge into Customer columns to remove unnecessary Zip Code column.</br>
 - There are quite a few null values in Delivered_date, but only 7 records for "Delivered" orders - which we will focus on this report. Due to such a small amount, I dropped them.
 </br>
-
 _Data Modeling_</br>
 I created a Date table with the fiscal year starting from October.</br>
 For this dataset, I chose to build a Snowflake data schema with the Order_items table as the fact table since it contains the most record, with its primary key being the composition of three columns. 
