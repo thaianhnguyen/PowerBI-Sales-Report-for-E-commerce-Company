@@ -2,6 +2,7 @@
 #### The report has been published on Power BI service at here: [**_Sales Report_**](https://app.powerbi.com/view?r=eyJrIjoiNjZhZDg0MjQtZDJmMC00NGRiLTliODgtOTYzNjk0NDZlMWM3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=ReportSection350eea8b65c54936c3ec)
 
 ### Business scenario & Dataset
+---
 
 Supposing I am tasked with making FY2018 annual sales report for the Sales manager in my e-commerce company. He/she wants to know about the sales performance for the last year and also some insights about customers based on their buying behaviors and product reviews.
 
@@ -11,6 +12,7 @@ About the company:
 Olist connects small business owners from all over Brazil to channels, who sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 
 ### Data cleaning & Modeling 
+---
 _Data cleaning_</br>
 I imported directly from SQL servers only tables that are relevant to the business requirements. I then checked the data type, data profiling to make changes to ensure accordance to the metadata description.
 
@@ -26,6 +28,7 @@ Below are the data model:</br>
 ![alt text](https://github.com/thaianhnguyen/Sales-Report-for-E-commerce-Company/blob/main/images%20BI/Screenshot_1.jpg)
 
 ### Visualization:
+---
 
 The report has 4 pages.
 
