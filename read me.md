@@ -1,5 +1,5 @@
 ## Sales Report for E-commerce Company
-#### The report has been published on Power BI service at here: [**_Sales Report_**](https://app.powerbi.com/reportEmbed?reportId=b5a963a0-4a5b-4909-8440-00d61610c568&autoAuth=true&ctid=af1f3753-3925-4e6f-949b-97c007320803)
+#### The report has been published on Power BI service at here: [**_Sales Report_**](https://app.powerbi.com/view?r=eyJrIjoiNjZhZDg0MjQtZDJmMC00NGRiLTliODgtOTYzNjk0NDZlMWM3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=ReportSection350eea8b65c54936c3ec)
 
 ### Business scenario & Dataset
 
