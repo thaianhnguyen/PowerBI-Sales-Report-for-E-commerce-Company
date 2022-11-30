@@ -49,10 +49,10 @@ Lastly, I address the sales manager's requirement regarding customer insight in 
 ![alt text](https://github.com/thaianhnguyen/Sales-Report-for-E-commerce-Company/blob/main/images%20BI/Screenshot_8.jpg)</br>
 For this page, I want to show how many customers are returning for a second purchase, how positive their reviews are and how on-time our delivery is. I also included the segmentation of customers based on RFM analysis that I conducted with SQL [**here**](https://github.com/thaianhnguyen/RFM-analysis-with-SQL/blob/main/rfm%20read%20me.md).
 
-The highlight of this page, firstly, is the cohort analysis of returning customer. This gives us insights of how many new customers are returning for the subsequent months. For example, we can see that for January 2018, there are 6838 new customers, only 23 of who return in the February and 25 of who return in March and so on.</br>
+_The highlight of this page, firstly, is the cohort analysis of returning customer_. This gives us insights of how many new customers are returning for the subsequent months. For example, we can see that for January 2018, there are 6838 new customers, only 23 of who return in the February and 25 of who return in March and so on.</br>
 ![alt text](https://github.com/thaianhnguyen/Sales-Report-for-E-commerce-Company/blob/main/images%20BI/Screenshot_9.jpg)</br>
 
-The second highlight is that the manager can decide the period, based on which retention rate are calculated. For example, retention rate with a period of 6 months would mean a returning customer is one that has made repeated purchase for the last 6 months. 
+_The second highlight is that the manager can decide the period, based on which retention rate are calculated_. For example, retention rate with a period of 6 months would mean a returning customer is one that has made repeated purchase for the last 6 months. 
 
 The last page is a decompostion tree visual, which should deepen insights about what total sales are made of, across dimensional variables, which are State, Product Category and Date here. </br>
 ![alt text](https://github.com/thaianhnguyen/Sales-Report-for-E-commerce-Company/blob/main/images%20BI/Screenshot_7.jpg)</br>
