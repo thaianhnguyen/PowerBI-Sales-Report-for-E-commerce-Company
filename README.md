@@ -13,7 +13,7 @@ Table of contents
    * [Overview Page](#overview-page)
    * [Sales by Product/Region](#Product-region)
    * [Customer Analysis](#Customer-analysis)
-
+* [Insights](#Insights)
 <!--te-->
 <a name="Business-scenario-dataset"/> </br>
 ## Business scenario & Dataset
@@ -75,6 +75,18 @@ _The second highlight is that the manager can decide the period, based on which 
 
 The last page is a decompostion tree visual, which should deepen insights about what total sales are made of, across dimensional variables, which are State, Product Category and Date here. </br>
 ![alt text](https://github.com/thaianhnguyen/Sales-Report-for-E-commerce-Company/blob/main/images%20BI/Screenshot_7.jpg)</br>
+
+<a name="Insights"/> </br>
+## Insights
+- Sales this year has seen an great increase in all aspects, compared to last year. This is a good sign.
+- Top selling product categories are beauty products and watches gifts while the top 3 states are Sao Paulo, Rio de Janeiro and Minas Gerais, the first of which triples the other two.
+- However, the retention rate is alarmingly low, compared to the expected ratio of 15-30% in e-commerce industry. And it seems it is not the sellers, but __the logistics__, to be blamed:
+   - The reason might not be the product quality as the CSAT ratio is greater than 75% (even for churn customer segment). 
+   - The on time delivery rate is not good (below 95%).
+   - The average delivery days increases and on time delivery rate decreases for the "likely to churn" and "churn" segment. </br> 
+Therefore, it might be useful conducting further analysis into the correlation between late delivery and retention rate.
+- The "middle" segment is witnessing drastic decreases in sales for the past 6 months. It's worth giving more attention to these customers.
+
 This is the end of my blog. I hope with my report, the sales manager can draw useful insights that are actionable. 
 
 
